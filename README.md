@@ -34,11 +34,9 @@ reliable and best-performing model.
 ## 🧠 Models Used
 
 -   Logistic Regression\
--   K-Nearest Neighbors (KNN)\
+-   Decision Tree\
 -   Support Vector Machine (SVM)\
 -   Random Forest Classifier\
--   XGBoost Classifier\
--   Multi-Layer Perceptron (Neural Network)
 
 ## 📈 Evaluation Metrics
 
@@ -59,7 +57,6 @@ unseen data.
 -   Python\
 -   NumPy, Pandas\
 -   Scikit-learn\
--   XGBoost\
 -   Jupyter Notebook
 
 ## 📂 Project Structure
@@ -76,7 +73,7 @@ unseen data.
 
 -   Hyperparameter tuning
 -   Feature selection or dimensionality reduction
--   Deployment using Flask or Streamlit
+-   Deployment using Flask
 
 ------------------------------------------------------------------------
 
